@@ -1,0 +1,65 @@
+{
+    "Attack": {
+        "checkpoints": [
+            {
+                "steps": 349951,
+                "file_path": "results\\AttackCH\\Attack\\Attack-349951.onnx",
+                "reward": 13.945333364109198,
+                "creation_time": 1648334413.075525,
+                "auxillary_file_paths": [
+                    "results\\AttackCH\\Attack\\Attack-349951.pt"
+                ]
+            },
+            {
+                "steps": 399992,
+                "file_path": "results\\AttackCH\\Attack\\Attack-399992.onnx",
+                "reward": 13.941428571708084,
+                "creation_time": 1648334501.917593,
+                "auxillary_file_paths": [
+                    "results\\AttackCH\\Attack\\Attack-399992.pt"
+                ]
+            },
+            {
+                "steps": 449984,
+                "file_path": "results\\AttackCH\\Attack\\Attack-449984.onnx",
+                "reward": 13.940102208976763,
+                "creation_time": 1648334593.1975937,
+                "auxillary_file_paths": [
+                    "results\\AttackCH\\Attack\\Attack-449984.pt"
+                ]
+            },
+            {
+                "steps": 499995,
+                "file_path": "results\\AttackCH\\Attack\\Attack-499995.onnx",
+                "reward": 13.946624042093754,
+                "creation_time": 1648334682.858172,
+                "auxillary_file_paths": [
+                    "results\\AttackCH\\Attack\\Attack-499995.pt"
+                ]
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\AttackCH\\Attack\\Attack-500028.onnx",
+                "reward": 13.946793695823068,
+                "creation_time": 1648334682.9171717,
+                "auxillary_file_paths": [
+                    "results\\AttackCH\\Attack\\Attack-500028.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500028,
+            "file_path": "results\\AttackCH\\Attack.onnx",
+            "reward": 13.946793695823068,
+            "creation_time": 1648334682.9171717,
+            "auxillary_file_paths": [
+                "results\\AttackCH\\Attack\\Attack-500028.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

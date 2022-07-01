@@ -1,0 +1,65 @@
+{
+    "Escape": {
+        "checkpoints": [
+            {
+                "steps": 849944,
+                "file_path": "results\\Escape00A\\Escape\\Escape-849944.onnx",
+                "reward": null,
+                "creation_time": 1648341424.4309676,
+                "auxillary_file_paths": [
+                    "results\\Escape00A\\Escape\\Escape-849944.pt"
+                ]
+            },
+            {
+                "steps": 899964,
+                "file_path": "results\\Escape00A\\Escape\\Escape-899964.onnx",
+                "reward": 251.64446718494096,
+                "creation_time": 1648341522.9231527,
+                "auxillary_file_paths": [
+                    "results\\Escape00A\\Escape\\Escape-899964.pt"
+                ]
+            },
+            {
+                "steps": 949975,
+                "file_path": "results\\Escape00A\\Escape\\Escape-949975.onnx",
+                "reward": 337.4500299990177,
+                "creation_time": 1648341618.3026688,
+                "auxillary_file_paths": [
+                    "results\\Escape00A\\Escape\\Escape-949975.pt"
+                ]
+            },
+            {
+                "steps": 999982,
+                "file_path": "results\\Escape00A\\Escape\\Escape-999982.onnx",
+                "reward": 618.800055027008,
+                "creation_time": 1648341720.5146706,
+                "auxillary_file_paths": [
+                    "results\\Escape00A\\Escape\\Escape-999982.pt"
+                ]
+            },
+            {
+                "steps": 1000046,
+                "file_path": "results\\Escape00A\\Escape\\Escape-1000046.onnx",
+                "reward": 618.800055027008,
+                "creation_time": 1648341720.5806699,
+                "auxillary_file_paths": [
+                    "results\\Escape00A\\Escape\\Escape-1000046.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000046,
+            "file_path": "results\\Escape00A\\Escape.onnx",
+            "reward": 618.800055027008,
+            "creation_time": 1648341720.5806699,
+            "auxillary_file_paths": [
+                "results\\Escape00A\\Escape\\Escape-1000046.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
